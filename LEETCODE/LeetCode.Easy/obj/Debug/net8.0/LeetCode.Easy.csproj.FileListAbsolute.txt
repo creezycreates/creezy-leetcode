@@ -1,0 +1,15 @@
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/bin/Debug/net8.0/LeetCode.Easy
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/bin/Debug/net8.0/LeetCode.Easy.deps.json
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/bin/Debug/net8.0/LeetCode.Easy.runtimeconfig.json
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/bin/Debug/net8.0/LeetCode.Easy.dll
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/bin/Debug/net8.0/LeetCode.Easy.pdb
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.AssemblyInfoInputs.cache
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.AssemblyInfo.cs
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.csproj.CoreCompileInputs.cache
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.sourcelink.json
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.dll
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/refint/LeetCode.Easy.dll
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.pdb
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/LeetCode.Easy.genruntimeconfig.cache
+/Users/crikong/Documents/CREEZYCREATES/leetcode/LEETCODE/LeetCode.Easy/obj/Debug/net8.0/ref/LeetCode.Easy.dll
